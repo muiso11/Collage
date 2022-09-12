@@ -1,0 +1,187 @@
+<HTML><HEAD><TITLE>StaffSite Universitas Gunadarma</TITLE>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<meta name="verify-v1" content="ZlLwyHxmwJnoMyV7YZaiLs1fFtERblzj1J9j7cu+L6s=" />
+<meta name="msvalidate.01" content="9162123630774D8C83C6D9EB97D16715" />
+<META name="y_key" content="ad5d16331591682f" >
+<SCRIPT language=Javascript><!--
+if (navigator.appName == "Microsoft Internet Explorer" && navigator.appVersion.substring(0,1) < 4) {
+if (confirm("Internet Explorer 3 Alert\n This browser uses an abandoned programming\n language and does not support Javascript\n which makes much of the web and this site\n nonfunctional. Would you like to upgrade?")) {
+window.location="http://www.microsoft.com/windows/ie/download/default.asp" }
+}
+//-->
+</SCRIPT>
+
+<STYLE type=text/css>
+
+A {
+	FONT-SIZE: 8pt; FONT-FAMILY : verdana, arial, helvetica; COLOR:yellow;
+}
+A.p {
+	FONT-SIZE: 8pt; FONT-FAMILY : verdana, arial, helvetica; COLOR:#330066; text-decoration:none;
+}
+A.p:hover {
+	FONT-SIZE: 8pt; FONT-FAMILY : verdana, arial, helvetica; COLOR:red; text-decoration:underline;
+}
+TD.white {
+	FONT-SIZE: 8pt; FONT-FAMILY : verdana, arial, helvetica; COLOR:#330066;
+}
+TD.purple {
+	FONT-SIZE: 8pt; FONT-FAMILY : verdana, arial, helvetica; COLOR:white;
+}
+BODY {
+	FONT-SIZE: 8pt; FONT-FAMILY : verdana, arial, helvetica; COLOR:white;
+}
+INPUT {
+	FONT-SIZE: 12px
+}
+SELECT {
+	FONT-SIZE: 12px
+}
+TEXTAREA {
+	FONT-SIZE: 12px
+}
+</STYLE>
+
+<META content="MSHTML 5.00.2614.3500" name=GENERATOR></HEAD>
+<BODY background=http://staffsite.gunadarma.ac.id/images/bgt.jpg leftMargin=0 text=#8569C0 topMargin=0 
+marginwidth="0" marginheight="0">
+<TABLE border=0 cellPadding=0 cellSpacing=0 height="100%" width="100%">
+  <TBODY> 
+  <TR> 
+    <TD align=right bgColor=#ffffff vAlign=top width="50%"> <IMG alt=Daystream border=0 src="http://staffsite.gunadarma.ac.id/images/kiri.gif"><BR>
+      <TABLE border=0 cellPadding=3 width=100%>
+        <TBODY> 
+        <TR align=right vAlign=top> 
+          <TD> 
+            <TABLE border=0 cellPadding=0 cellSpacing=0 width=350>
+              <TBODY> 
+              <TR> 
+                <TD colSpan=3>&nbsp;</TD>
+              </TR>
+              <TR align=right> 
+                <TD colSpan=2 width=526><IMG 
+                  alt="Site Design &amp; Redesign" border=0 height=23 
+                  src="http://staffsite.gunadarma.ac.id/images/design.gif" width=263></TD>
+                <TD rowSpan=2 vAlign=top width=37><IMG border=0 
+                  height=37 src="http://staffsite.gunadarma.ac.id/images/circledesign.gif" 
+              width=37></TD>
+              </TR>
+              <TR align=right> 
+                <TD align=left width=16>&nbsp;</TD>
+                <TD align=left vAlign=top class="white"> 
+                  <div align="right">
+                    <p><b>StaffSite</b> adalah homepage resmi staff <br>
+                      Universitas Gunadarma.</p>
+                    <p><b>Syarat Pembuatan :</b><br>
+                      1. Terdaftar sebagai dosen Universitas Gunadarma<br>
+                      2. Sudah mempunyai email account di webmail Universitas 
+                      Gunadarma<br>
+                      <br>
+                      <b>Prosedur Pembuatan :</b><br>
+                      <a href=sop.htm target=_blank>Klik disini</a>
+			<br><p>
+                      Setelah prosedur pembuatan selesai, <br>
+                      homepage staff yang bersangkutan dapat dilihat di :<br>
+                      <b>http://staffsite.gunadarma.ac.id/nama_staff</b><br>
+                      <br>
+			<table border="0" cellpadding="0" cellspacing="2" align="center" width="250">
+                          <tr> 
+                            <td style="height:15px" valign="top"> 
+                              <div align="center"><img src="images/bar_kontakkami.gif" width="167" height="45"></div>
+                            </td>
+                          </tr>
+                          <tr> 
+                            <td style="height:15px" valign="top" bgcolor="F5E4FD"> 
+                              <div align="center"><b><font color="763696" size=-2>Segera 
+                                Kontak Kami </font></b><font color="763696" size=-2>jika 
+                                ada keluhan. Kami akan berusaha untuk secepatnya merespon 
+                                informasi anda ke alamat email.</font><br>
+                              </div>
+                              <table width="100%"  border="0" cellspacing="0" cellpadding="2" width="120">
+                                <form action="http://staffsite.gunadarma.ac.id/index.php?go=mail" method="post"><tr> 
+                                  <td valign="top"><font size=-3 color=#000000>Nama</td>
+                                  <td valign="top">
+                                    <input type="text" name="kontak_nama" size="20">
+                                  </td>
+                                </tr>
+                                   <tr> 
+                                    <td valign="middle"><font size=-3 color=#000000> Email</td>
+                                    <td valign="middle"> 
+                                      <input type="text" name="kontak_email" size="20">
+                                    </td>
+                                  </tr>
+                                  <tr> 
+                                    <td valign="middle"><font size=-3 color=#000000>Pesan</td>
+                                    <td valign="middle"> 
+                                      <textarea name="kontak_pesan"></textarea>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td valign="middle">&nbsp;</td>
+                                    <td valign="middle"><input type=hidden name=stateid value=kontak_kirim>
+                                      <input type="hidden" name="go" value="mail">
+                                      <input type="submit" name="Submit" value="Send">
+                                    </td>
+                                  </tr>
+                                </form>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                    </p>
+                  </div>
+                </TD>
+              </TR>
+              </TBODY>
+            </TABLE>
+            
+          </TD>
+        </TR>
+        </TBODY>
+      </TABLE>
+    </TD>
+    <TD align=left background=http://staffsite.gunadarma.ac.id/images/bgt.gif vAlign=top width="50%"><IMG 
+      alt="Web Developers" border=0 src="http://staffsite.gunadarma.ac.id/images/kanan.gif"><BR>
+      <TABLE border=0 cellPadding=3>
+        <TBODY> 
+        <TR align=middle vAlign=top> 
+          <TD> 
+            <div align="left"></div>
+            <TABLE border=0 cellPadding=0 
+            cellSpacing=0 width=100%>
+              <TBODY> 
+              <TR> 
+                <TD colSpan=4>&nbsp;</TD>
+              </TR>
+              <TR align=right> 
+                <TD colSpan=2 width=526>
+                  <div align="left"><IMG 
+                  alt=Ecommerce border=0 height=23 
+                  src="http://staffsite.gunadarma.ac.id/images/ecommerce.gif" width=263></div>
+                </TD>
+                <TD rowSpan=2 vAlign=top width=37><IMG border=0 
+                  height=37 src="http://staffsite.gunadarma.ac.id/images/forb.gif" width=37></TD>
+                <TD rowSpan=2 vAlign=top width=100%>&nbsp;</TD>
+              </TR>
+              <TR align=right> 
+                <TD align=left width=8><IMG height=16 
+                  src="http://staffsite.gunadarma.ac.id/images/spacer.gif" width=8></TD>
+                <TD align=left vAlign=top width=263 class="purple">&nbsp;
+              </TR>
+              <TR align=right> 
+                <TD align=left colspan="4">
+                  <div align="left">&nbsp;<form action=/index.php?go=search method=POST><table align=center border=0 cellpadding=2 cellspacing=0 height=100%><tr><td>Search by name</td><td><input type=text name=namanya></td><td><input type=submit value='Search'></td></tr></table></form><div align=center><a href=index2.php><font size=+1>To view list of staff click here</font></a></a>Masukkan kriteria pencarian </div>
+                </TD>
+              </TR>
+              </TBODY> 
+            </TABLE>
+            
+          </TD>
+        </TR>
+        </TBODY>
+      </TABLE>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+</BODY></HTML>

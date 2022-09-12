@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class aa1{
+	public static void main(String[]args){
+		Scanner masuk = new Scanner(System.in);
+		int a;
+	
+		System.out.print("Masukkan jumlah perulangan: ");
+		a = masuk.nextInt();
+		for (a <= 20){
+		System.out.println("Hello world ");
+			
+		}
+	}
+}
